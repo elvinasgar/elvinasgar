@@ -129,7 +129,7 @@ books:      4 authored
 | 08 | McKinsey & Company — Azerbaijan Office | Corporate Fit-Out |
 | 09 | PASHA Holding / Insurance / Life Offices | Corporate Fit-Out |
 | 10 | EY Office · JTI Office · Sea Breeze Earthing | Commercial |
-| 11 | TEDx Infinity — Event Project | Event Management |
+| 11 | TEDx Baku Engineering University & TEDxBakikhanovStreet Live — Event Project | Event Management |
 | + | *10 more projects...* | Various |
 
 ---
